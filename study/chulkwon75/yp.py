@@ -5,4 +5,4 @@
   전화번호부 내용을 파일 저장 및 로드 기능 구현
 """
 
-print("hello!!")
+print("hello SKITS!!!!!")
